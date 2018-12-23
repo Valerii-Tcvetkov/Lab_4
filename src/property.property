@@ -1,0 +1,5 @@
+data = csv
+serverName = localhost:1433
+databaseName = TempDatabase
+userName = sa
+password = Password1234
